@@ -1,3 +1,3 @@
 Basic HTML/CSS/JS Website for my girlfriend and I's 6 month *half-anniversary*!
 - Includes music, custom animations, and interactive elements to make her smile :)  
-- Deployed at https://dukeandkdub6month.netlify.app
+- Contact me to see the deployed website!
